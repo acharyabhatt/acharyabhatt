@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
 - 🔭 I’m currently working on **ML, DL, NLP ,CV , LLMS**
 
-- 🌱 I’m currently learning **Statistics , Machine Learning Maths**
+- 🌱 I’m currently learning GenAI **
 
 - 💬 Ask me about **Data Science, Data Analytics , Software Development**
 
